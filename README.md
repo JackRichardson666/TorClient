@@ -14,4 +14,4 @@ the installation does not require downloading python packages since the client i
 
 # The proxy is not working
 
-I found a bug, but could not fix it, eco driver provides its own proxy servers by default, I do not know how to make it not do this, if you can, please send a request for a repository update to https://github.com/JackRichardson666/TorClient/pulls
+I found a bug, but could not fix it, gecodriver provides its own proxy servers by default, I do not know how to make it not do this, if you can, please send a request for a repository update to https://github.com/JackRichardson666/TorClient/pulls
