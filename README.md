@@ -10,8 +10,8 @@ this client is an alpha version, so it has a bunch of bugs and flaws from a regu
 
 the installation does not require downloading python packages since the client itself is packaged in an exe, the resource will be in the repository, if you want to add something, go ahead, it's up to you.
 
-##Error
+## Error
 
-#The proxy is not working
+# The proxy is not working
 
 I found a bug, but could not fix it, eco driver provides its own proxy servers by default, I do not know how to make it not do this, if you can, please send a request for a repository update to https://github.com/JackRichardson666/TorClient/pulls
